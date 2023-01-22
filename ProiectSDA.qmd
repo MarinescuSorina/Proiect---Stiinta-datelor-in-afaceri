@@ -1,7 +1,8 @@
 ---
 title: "Proiect sda"
 format: html
-
+author: "Duțu Cristina, Gavrilă Simona, Marinescu Sorina"
+  
 editor: visual
 mainfont: Times New Roman
 sansfont: Times New Roman
